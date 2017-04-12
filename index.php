@@ -4,7 +4,11 @@
 		<meta charset="utf-8" />
 
 <!--		custom css -->
-		<link rel="stylesheet"href="style.css" type="text/css"/>
+
+		<>
+		<script type="text/javascript" src="js/scripts.js"></script>
+
+		<link rel="stylesheet" href="style.css" type="text/css"/>
 
 		<title> HTML SANDBOX </title>
 	</head>
