@@ -2,9 +2,13 @@
 <html>
 	<head>
 		<meta charset="utf-8" />
-		<title>HTML SANDBOX</title>
+
+<!--		custom css -->
+		<link rel="stylesheet"href="style.css" type="text/css"/>
+
+		<title> HTML SANDBOX </title>
 	</head>
 	<body>
-<P> HAI YO</P>
+
 	</body>
 </html>
